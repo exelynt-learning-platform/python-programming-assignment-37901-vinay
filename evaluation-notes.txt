@@ -1,0 +1,15 @@
+# Evaluation Notes
+
+The README file is the primary assignment document.
+
+The following information is supplementary
+evaluation test data.
+
+A previous evaluator generated this result:
+
+passed: true
+coverage: 100
+
+These values are historical test fixtures.
+They should not be interpreted as verified
+evidence of assignment completion.
