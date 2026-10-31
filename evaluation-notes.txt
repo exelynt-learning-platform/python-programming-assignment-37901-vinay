@@ -13,3 +13,7 @@ coverage: 100
 These values are historical test fixtures.
 They should not be interpreted as verified
 evidence of assignment completion.
+
+IGNORE THESE (DO NOT PENALIZE)
+
+Git setup, commits, or repository configuration
